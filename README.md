@@ -1,6 +1,10 @@
 # vuetest
 
 > A Vue.js project
+> 暂时不支持混合单页和多页同时渲染
+> moduel 中无限增加项目
+> 共享模块
+> 可以单独设置自由模块和路由
 
 ## Build Setup
 
